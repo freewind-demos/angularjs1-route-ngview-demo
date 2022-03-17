@@ -7,5 +7,5 @@ Note: we have to use `#!/some-path` in `<a href=???>`. If we want to use normal 
 
 ```
 npm install
-npm run demo
+npm start
 ```
